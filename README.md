@@ -1,3 +1,6 @@
+Following the Stimulus Handbook tutorial(s), starting here: https://stimulus.hotwire.dev/handbook/hello-stimulus
+
+
 # Stimulus Starter
 
 A preconfigured blank slate for exploring [Stimulus](https://github.com/hotwired/stimulus). Jump to [The Stimulus Handbook](https://stimulus.hotwire.dev/handbook/introduction) for an introduction.
